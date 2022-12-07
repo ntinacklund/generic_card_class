@@ -1,0 +1,1 @@
+# generic_card_class
