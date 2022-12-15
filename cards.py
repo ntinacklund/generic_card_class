@@ -32,16 +32,16 @@ if __name__ == "__main__":
         # King of Diamonds 
 
 
-        card = Card(5, "Diamonds")
-        for c in cards:
-            if c == card:
-                print(c)
+    card = Card(5, "Diamonds")
+    for c in cards:
+        if c == card:
+            print(c)
 
-        # Diamonds 5
+    # Diamonds 5
 
-        for c in cards:
-            if c == 5 and c > card:
-                print(c)
+    for c in cards:
+        if c == 5 and c > card:
+            print(c)
 
-        # Hearts 5
-        # Spades 5
+    # Hearts 5
+    # Spades 5
