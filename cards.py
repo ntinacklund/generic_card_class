@@ -40,8 +40,8 @@ if __name__ == "__main__":
     # Diamonds 5
 
     for c in cards:
-        if c == 5 and c > card:
+        if c == 6 and c > card:
             print(c)
 
-    # Hearts 5
-    # Spades 5
+    # Hearts 6
+    # Spades 6
